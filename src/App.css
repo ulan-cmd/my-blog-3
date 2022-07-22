@@ -13,3 +13,8 @@
 button {
   margin: 5px;
 }
+
+.text__red {
+  color: red !important;
+  color: black;
+}

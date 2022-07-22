@@ -4,6 +4,8 @@ import Header from "./components/Header";
 import BlogEntries from "./components/BlogEntries";
 import IntroductionMenu from "./components/IntroductionMenu";
 import Footer from "./components/Footer";
+import {ComponentA, ComponentC} from "./components/componentA/ComponentA";
+
 
 function App() {
 
