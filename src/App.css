@@ -18,3 +18,7 @@ button {
   color: red !important;
   color: black;
 }
+
+.active {
+  color: blue;
+}

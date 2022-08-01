@@ -1,16 +1,16 @@
 import React from 'react';
 import styles from "./Iphone.module.css";
 
+
+const title = {
+    textAlign: "center"
+}
+
 const Iphone = () => {
-    const title = {
-      textAlign: "center"
-    }
 
     return (
-      <div>
-        <h1 style={title}>Здесь будут айфоны</h1>
-      </div>
+        <h1 className={title}>Здесь будут айфоны</h1>
     );
-  };
+};
 
-  export default Iphone;
+export default Iphone;
